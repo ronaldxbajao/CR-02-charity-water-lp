@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-label="Happy child with water illustration">
+  <rect width="600" height="400" fill="#ffffff" />
+  <g transform="translate(20,20)">
+    <circle cx="100" cy="100" r="60" fill="#ffd6cc" />
+    <circle cx="80" cy="90" r="8" fill="#333" />
+    <circle cx="120" cy="90" r="8" fill="#333" />
+    <path d="M70 125 q30 40 60 0" stroke="#333" stroke-width="6" fill="none" stroke-linecap="round" />
+    <rect x="220" y="60" width="340" height="260" rx="12" fill="#e9fcfb" />
+    <text x="260" y="160" font-family="Arial" font-size="20" fill="#0d2636">Amina can go to school now.</text>
+  </g>
+</svg>

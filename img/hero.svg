@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-label="Sun over water illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7adcf6" />
+      <stop offset="100%" stop-color="#4cc3d9" />
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0aa5a2" />
+      <stop offset="100%" stop-color="#0a8f86" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="600" fill="url(#sky)" />
+  <g transform="translate(0,40)">
+    <circle cx="1300" cy="80" r="48" fill="#ffd166" />
+    <path d="M0,420 C240,360 360,460 720,420 C1080,380 1220,480 1600,420 L1600,600 L0,600 Z" fill="url(#sea)"/>
+  </g>
+</svg>
